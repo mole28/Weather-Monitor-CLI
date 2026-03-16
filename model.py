@@ -1,7 +1,6 @@
 from header import logger, client, API_KEY_OF_OPENWEATHER, WeatherMonitor
 from httpx import RequestError, HTTPStatusError
 from datetime import datetime
-#from header import API_KEY
 
 def save_history(name_of_city, temteratura_of_city):
     time_search = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
