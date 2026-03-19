@@ -1,5 +1,7 @@
-﻿.vs/
-venv/
+﻿.env
+*.log
+history_search.txt
 __pycache__/
-*.pyc
-.env
+*.pyproj
+*.pyproj.user
+.vs/
