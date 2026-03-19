@@ -4,7 +4,7 @@ from httpx import HTTPStatusError, RequestError
 
 # test review with success (status 200)
 @patch('model.client.get')
-def test_get_weather_success(mock_get):
+def test_get_weather_success(mock_get: MagicMock) -> None:
     fake_response = MagicMock()
     fake_response.json.return_value = {
             "name": "haifa",
@@ -18,7 +18,7 @@ def test_get_weather_success(mock_get):
 
 # Review test with 'The requested page is not found' failure (status 404)
 @patch('model.client.get')
-def test_get_weather_city_not_found(mock_get):
+def test_get_weather_city_not_found(mock_get: MagicMock) -> None:
     fake_response = MagicMock()
     fake_response.status_code = 404
 
@@ -33,7 +33,7 @@ def test_get_weather_city_not_found(mock_get):
 
 # Specifies that calling the function will throw an HTTPStatusError error.
 @patch('model.client.get')
-def test_get_weather_unauthorized_access(mock_get):
+def test_get_weather_unauthorized_access(mock_get: MagicMock) -> None:
     fake_response = MagicMock()
     fake_response.status_code = 401
 
@@ -47,7 +47,7 @@ def test_get_weather_unauthorized_access(mock_get):
     print("!!!Testing (401) successful!!!\n")
 
 @patch('model.client.get')
-def test_get_weather_RequestError(mock_get):
+def test_get_weather_RequestError(mock_get: MagicMock) -> None:
     fake_response = MagicMock()
     
     mock_get.side_effect = RequestError("NO-INTERNET-CONNECTION", request = MagicMock())
@@ -57,7 +57,7 @@ def test_get_weather_RequestError(mock_get):
     get_weather("Haifa")
     print("!!!Testing (RequestError) successful!!!\n")
 
-def run_all_tests():
+def run_all_tests() -> None:
     print("Now we will run tests to verify the code's validity:")
     test_get_weather_success()
     test_get_weather_city_not_found()

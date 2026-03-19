@@ -4,7 +4,6 @@ import os
 from pydantic import BaseModel
 from dotenv import load_dotenv
 
-
 # Loads environment variables from the .env file.
 # retrieves the OpenWeather API key using the os module.
 load_dotenv()

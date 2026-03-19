@@ -2,13 +2,13 @@ from header import logger, client, API_KEY_OF_OPENWEATHER, WeatherMonitor
 from httpx import RequestError, HTTPStatusError
 from datetime import datetime
 
-def save_history(name_of_city, temteratura_of_city):
+def save_history(name_of_city: str, temteratura_of_city: [int, float, str]) -> None: # str for error
     time_search = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open("history_search.txt","a", encoding="utf-8") as f:
         f.write(f"<<<[{time_search}]>>> City: {name_of_city}, Temp: {temteratura_of_city}\n")
 
 # Function to get weather information
-def get_weather(city_name=""):
+def get_weather(city_name: str = "") -> None:
     try:
         logger.info(f"Getting user information from {city_name}")
         url = f"https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_KEY_OF_OPENWEATHER}&units=metric"
