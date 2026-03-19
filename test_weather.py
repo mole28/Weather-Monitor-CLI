@@ -64,3 +64,9 @@ def run_all_tests() -> None:
     test_get_weather_unauthorized_access()
     test_get_weather_RequestError()
     print("<<<<We have completed all the tests.>>>>")
+
+## This is a test for developers!
+if __name__ == "__main__":
+    print("<<< Starting the tests: >>>")
+    run_all_tests()
+    print("<<< finish the tests! >>>")
