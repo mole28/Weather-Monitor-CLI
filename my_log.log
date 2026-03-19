@@ -1,0 +1,355 @@
+2026-03-16 00:24:55,835 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:24:56,297 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:24:56,297 - my_log - INFO - Request process finished.
+2026-03-16 00:25:39,788 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:25:40,406 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:25:40,406 - my_log - INFO - Request process finished.
+2026-03-16 00:27:13,893 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:27:13,893 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:27:13,893 - my_log - INFO - Request process finished.
+2026-03-16 00:35:23,297 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:35:23,783 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:35:23,783 - my_log - INFO - Request process finished.
+2026-03-16 00:37:16,461 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:37:16,814 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:37:16,814 - my_log - INFO - Request process finished.
+2026-03-16 00:42:29,527 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:42:29,967 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 00:42:29,967 - my_log - INFO - Request process finished.
+2026-03-16 00:43:57,298 - my_log - INFO - Getting user information from weather2day.co.il
+2026-03-16 00:43:57,635 - my_log - INFO - Request process finished.
+2026-03-16 00:52:26,433 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 00:52:26,844 - my_log - INFO - Request process finished.
+2026-03-16 01:18:11,481 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 01:18:11,481 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 01:18:11,481 - my_log - INFO - Request process finished.
+2026-03-16 01:20:27,021 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 01:20:27,021 - my_log - INFO - Request process finished.
+2026-03-16 01:20:48,197 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 01:20:48,197 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 01:20:48,197 - my_log - INFO - Request process finished.
+2026-03-16 01:21:27,870 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 01:21:27,870 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 01:21:27,870 - my_log - INFO - Request process finished.
+2026-03-16 09:58:30,634 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 09:58:30,636 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 09:58:30,636 - my_log - INFO - Request process finished.
+2026-03-16 09:58:50,821 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 09:58:50,822 - my_log - ERROR - The data is in the wrong format.
+2026-03-16 09:58:50,822 - my_log - INFO - Request process finished.
+2026-03-16 10:03:11,958 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:03:12,199 - my_log - INFO - Request process finished.
+2026-03-16 10:03:33,699 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:03:33,911 - my_log - INFO - Request process finished.
+2026-03-16 10:05:10,307 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:05:10,544 - my_log - INFO - Request process finished.
+2026-03-16 10:06:19,205 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:06:19,417 - my_log - INFO - Request process finished.
+2026-03-16 10:06:56,597 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:06:56,820 - my_log - INFO - Request process finished.
+2026-03-16 10:07:42,660 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:07:43,048 - my_log - INFO - Request process finished.
+2026-03-16 10:10:45,766 - my_log - INFO - Getting user information from Jerusalem
+2026-03-16 10:10:45,999 - my_log - INFO - Request process finished.
+2026-03-16 10:10:45,999 - my_log - INFO - Getting user information from New York
+2026-03-16 10:10:46,067 - my_log - INFO - Request process finished.
+2026-03-16 10:10:46,067 - my_log - INFO - Getting user information from Tokyo
+2026-03-16 10:10:46,135 - my_log - INFO - Request process finished.
+2026-03-16 10:11:08,714 - my_log - INFO - Getting user information from Haifa
+2026-03-16 10:11:08,944 - my_log - INFO - Request process finished.
+2026-03-16 10:11:08,944 - my_log - INFO - Getting user information from New York
+2026-03-16 10:11:09,013 - my_log - INFO - Request process finished.
+2026-03-16 10:11:09,014 - my_log - INFO - Getting user information from Tokyo
+2026-03-16 10:11:09,081 - my_log - INFO - Request process finished.
+2026-03-16 10:13:42,965 - my_log - INFO - Getting user information from Haifa
+2026-03-16 10:13:43,177 - my_log - INFO - Request process finished.
+2026-03-16 10:13:43,178 - my_log - INFO - Getting user information from New York
+2026-03-16 10:13:43,241 - my_log - INFO - Request process finished.
+2026-03-16 10:13:43,241 - my_log - INFO - Getting user information from Tokyo
+2026-03-16 10:13:43,305 - my_log - INFO - Request process finished.
+2026-03-16 10:13:51,971 - my_log - INFO - Getting user information from Haifa
+2026-03-16 10:13:52,196 - my_log - INFO - Request process finished.
+2026-03-16 10:13:52,197 - my_log - INFO - Getting user information from New York
+2026-03-16 10:13:52,260 - my_log - INFO - Request process finished.
+2026-03-16 10:13:52,260 - my_log - INFO - Getting user information from Tokyo
+2026-03-16 10:13:52,325 - my_log - INFO - Request process finished.
+2026-03-16 10:17:55,028 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:17:55,260 - my_log - INFO - Request process finished.
+2026-03-16 10:18:06,366 - my_log - INFO - Getting user information from tel aviv
+2026-03-16 10:18:06,584 - my_log - INFO - Request process finished.
+2026-03-16 10:18:27,779 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:18:28,024 - my_log - INFO - Request process finished.
+2026-03-16 10:18:58,641 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:18:58,898 - my_log - INFO - Request process finished.
+2026-03-16 10:19:17,559 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:19:17,784 - my_log - INFO - Request process finished.
+2026-03-16 10:19:33,474 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:19:33,726 - my_log - INFO - Request process finished.
+2026-03-16 10:23:27,883 - my_log - INFO - Getting user information from tirat carmel
+2026-03-16 10:23:28,264 - my_log - INFO - Request process finished.
+2026-03-16 10:24:11,291 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:24:11,739 - my_log - INFO - Request process finished.
+2026-03-16 10:26:55,276 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:26:56,030 - my_log - INFO - Request process finished.
+2026-03-16 10:28:28,034 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:28:28,433 - my_log - INFO - Request process finished.
+2026-03-16 10:29:39,935 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:29:40,318 - my_log - INFO - Request process finished.
+2026-03-16 10:30:11,984 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:30:12,266 - my_log - INFO - Request process finished.
+2026-03-16 10:30:22,593 - my_log - INFO - Getting user information from jerusalem
+2026-03-16 10:30:22,944 - my_log - INFO - Request process finished.
+2026-03-16 10:31:31,619 - my_log - INFO - Getting user information from haifa
+2026-03-16 10:31:32,016 - my_log - INFO - Request process finished.
+2026-03-16 10:32:47,151 - my_log - INFO - Getting user information from dfgd
+2026-03-16 10:32:47,502 - my_log - ERROR - Failed to get user information from weather2day.co.il
+2026-03-16 10:32:47,503 - my_log - INFO - Request process finished.
+2026-03-16 11:00:44,399 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:00:44,726 - my_log - INFO - Request process finished.
+2026-03-16 11:00:46,577 - my_log - INFO - Getting user information from fddf
+2026-03-16 11:00:46,687 - my_log - INFO - Request process finished.
+2026-03-16 11:01:45,931 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:01:46,215 - my_log - INFO - Request process finished.
+2026-03-16 11:01:47,579 - my_log - INFO - Getting user information from fdjkv
+2026-03-16 11:01:47,681 - my_log - ERROR - City not found: fdjkv
+2026-03-16 11:01:47,681 - my_log - INFO - Request process finished.
+2026-03-16 11:03:35,071 - my_log - INFO - Getting user information from fmker
+2026-03-16 11:03:35,369 - my_log - ERROR - City not found: fmker
+2026-03-16 11:03:35,369 - my_log - INFO - Request process finished.
+2026-03-16 11:11:18,515 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:11:18,786 - my_log - INFO - Request process finished.
+2026-03-16 11:11:22,121 - my_log - INFO - Getting user information from dfkdf
+2026-03-16 11:11:22,228 - my_log - ERROR - City not found: dfkdf
+2026-03-16 11:11:22,228 - my_log - INFO - Request process finished.
+2026-03-16 11:11:28,955 - my_log - INFO - Getting user information from naharia
+2026-03-16 11:11:29,203 - my_log - INFO - Request process finished.
+2026-03-16 11:14:36,982 - my_log - INFO - Getting user information from jkdf
+2026-03-16 11:14:37,269 - my_log - INFO - Request process finished.
+2026-03-16 11:15:13,015 - my_log - INFO - Getting user information from nkjvdf
+2026-03-16 11:15:13,297 - my_log - ERROR - City not found: nkjvdf
+2026-03-16 11:15:13,297 - my_log - INFO - Request process finished.
+2026-03-16 11:15:16,712 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:15:16,792 - my_log - INFO - Request process finished.
+2026-03-16 11:21:24,596 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:22:01,412 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:22:01,675 - my_log - INFO - Request process finished.
+2026-03-16 11:22:04,590 - my_log - INFO - Getting user information from klsdf
+2026-03-16 11:22:04,700 - my_log - ERROR - City not found: klsdf
+2026-03-16 11:26:35,338 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:26:35,585 - my_log - INFO - Request process finished.
+2026-03-16 11:26:37,510 - my_log - INFO - Getting user information from vdfv
+2026-03-16 11:26:37,613 - my_log - ERROR - City not found: vdfv
+2026-03-16 11:26:37,613 - my_log - INFO - Request process finished.
+2026-03-16 11:26:39,130 - my_log - INFO - Getting user information from dfv
+2026-03-16 11:26:39,253 - my_log - ERROR - City not found: dfv
+2026-03-16 11:26:39,254 - my_log - INFO - Request process finished.
+2026-03-16 11:26:45,379 - my_log - INFO - Getting user information from tirat carmel
+2026-03-16 11:26:45,645 - my_log - INFO - Request process finished.
+2026-03-16 11:27:35,905 - my_log - INFO - Getting user information from sddsc
+2026-03-16 11:27:36,193 - my_log - ERROR - City not found: sddsc
+2026-03-16 11:27:36,193 - my_log - INFO - Request process finished.
+2026-03-16 11:29:44,539 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:29:44,805 - my_log - INFO - Request process finished.
+2026-03-16 11:46:25,134 - my_log - INFO - Getting user information from haifa
+2026-03-16 11:46:25,384 - my_log - INFO - Request process finished.
+2026-03-16 11:46:26,676 - my_log - INFO - Getting user information from vfdvd
+2026-03-16 11:46:26,773 - my_log - ERROR - City not found: vfdvd
+2026-03-16 11:46:26,774 - my_log - INFO - Request process finished.
+2026-03-16 11:46:27,560 - my_log - INFO - Getting user information from fdb
+2026-03-16 11:46:27,660 - my_log - ERROR - City not found: fdb
+2026-03-16 11:46:27,660 - my_log - INFO - Request process finished.
+2026-03-16 11:46:31,726 - my_log - INFO - Getting user information from naharia
+2026-03-16 11:46:31,812 - my_log - INFO - Request process finished.
+2026-03-16 11:55:45,848 - my_log - INFO - Getting user information from חשששששש
+2026-03-16 11:55:46,106 - my_log - ERROR - City not found: חשששששש
+2026-03-16 11:55:46,107 - my_log - INFO - Request process finished.
+2026-03-16 11:55:49,250 - my_log - INFO - Getting user information from bvrhhv
+2026-03-16 11:55:49,337 - my_log - ERROR - City not found: bvrhhv
+2026-03-16 11:55:49,337 - my_log - INFO - Request process finished.
+2026-03-16 11:55:54,121 - my_log - INFO - Getting user information from נהרייה
+2026-03-16 11:55:54,205 - my_log - ERROR - City not found: נהרייה
+2026-03-16 11:55:54,205 - my_log - INFO - Request process finished.
+2026-03-16 11:56:01,873 - my_log - INFO - Getting user information from afula
+2026-03-16 11:56:02,100 - my_log - INFO - Request process finished.
+2026-03-16 12:08:01,139 - my_log - INFO - Getting user information from fsdf
+2026-03-16 12:08:01,402 - my_log - ERROR - Unauthorized access.
+2026-03-16 12:08:01,403 - my_log - INFO - Request process finished.
+2026-03-16 13:49:13,910 - my_log - INFO - Getting user information from haifa
+2026-03-16 13:49:14,140 - my_log - INFO - Request process finished.
+2026-03-16 13:49:29,505 - my_log - INFO - Getting user information from tiarat carmel
+2026-03-16 13:49:29,787 - my_log - ERROR - City not found: tiarat carmel
+2026-03-16 13:49:29,787 - my_log - INFO - Request process finished.
+2026-03-16 13:49:47,555 - my_log - INFO - Getting user information from tirat carmel
+2026-03-16 13:49:47,786 - my_log - INFO - Request process finished.
+2026-03-16 13:50:01,483 - my_log - INFO - Getting user information from london
+2026-03-16 13:50:01,694 - my_log - INFO - Request process finished.
+2026-03-16 14:55:09,377 - my_log - INFO - Getting user information from haifa
+2026-03-16 14:55:09,379 - my_log - ERROR - Unexpected error: name 'API_KEY' is not defined
+2026-03-16 14:55:09,379 - my_log - INFO - Request process finished.
+2026-03-16 14:55:18,861 - my_log - INFO - Getting user information from gfdg
+2026-03-16 14:55:18,862 - my_log - ERROR - Unexpected error: name 'API_KEY' is not defined
+2026-03-16 14:55:18,862 - my_log - INFO - Request process finished.
+2026-03-16 14:55:26,928 - my_log - INFO - Getting user information from haifa
+2026-03-16 14:55:26,928 - my_log - ERROR - Unexpected error: name 'API_KEY' is not defined
+2026-03-16 14:55:26,929 - my_log - INFO - Request process finished.
+2026-03-16 14:56:42,376 - my_log - INFO - Getting user information from haifa
+2026-03-16 14:56:42,377 - my_log - ERROR - Unexpected error: name 'API_KEY' is not defined
+2026-03-16 14:56:42,377 - my_log - INFO - Request process finished.
+2026-03-16 14:57:59,130 - my_log - INFO - Getting user information from haifa
+2026-03-16 14:57:59,423 - my_log - INFO - Request process finished.
+2026-03-16 14:58:02,721 - my_log - INFO - Getting user information from dfdf
+2026-03-16 14:58:02,817 - my_log - ERROR - City not found: dfdf
+2026-03-16 14:58:02,818 - my_log - INFO - Request process finished.
+2026-03-16 14:58:11,792 - my_log - INFO - Getting user information from tirat carmel
+2026-03-16 14:58:12,016 - my_log - INFO - Request process finished.
+2026-03-16 15:21:49,838 - my_log - INFO - Getting user information from haifa
+2026-03-16 15:21:50,080 - my_log - INFO - Request process finished.
+2026-03-16 15:21:51,326 - my_log - INFO - Getting user information from dsfd
+2026-03-16 15:21:51,418 - my_log - ERROR - City not found: dsfd
+2026-03-16 15:21:51,419 - my_log - INFO - Request process finished.
+2026-03-16 15:40:51,489 - my_log - INFO - Getting user information from haifa
+2026-03-16 15:40:51,791 - my_log - INFO - Request process finished.
+2026-03-16 15:40:52,890 - my_log - INFO - Getting user information from fvd
+2026-03-16 15:40:52,994 - my_log - ERROR - City not found: fvd
+2026-03-16 15:40:52,995 - my_log - INFO - Request process finished.
+2026-03-16 15:47:58,121 - my_log - INFO - Getting user information from ישןכש
+2026-03-16 15:47:58,397 - my_log - ERROR - City not found: ישןכש
+2026-03-16 15:47:58,397 - my_log - INFO - Request process finished.
+2026-03-16 16:15:36,663 - my_log - INFO - Getting user information from haifa
+2026-03-16 16:15:37,031 - my_log - ERROR - Unauthorized access.
+2026-03-16 16:15:37,031 - my_log - INFO - Request process finished.
+2026-03-16 16:16:37,046 - my_log - INFO - Getting user information from haifa
+2026-03-16 16:16:37,449 - my_log - INFO - Request process finished.
+2026-03-16 16:23:01,940 - my_log - INFO - Getting user information from tirat carmel
+2026-03-16 16:23:02,231 - my_log - INFO - Request process finished.
+2026-03-16 16:23:15,276 - my_log - INFO - Getting user information from kfblskdm
+2026-03-16 16:23:15,596 - my_log - ERROR - City not found: kfblskdm
+2026-03-16 16:23:15,596 - my_log - INFO - Request process finished.
+2026-03-16 16:23:29,205 - my_log - INFO - Getting user information from tokyo
+2026-03-16 16:23:29,604 - my_log - INFO - Request process finished.
+2026-03-16 16:23:34,760 - my_log - INFO - Getting user information from london
+2026-03-16 16:23:35,144 - my_log - INFO - Request process finished.
+2026-03-16 16:23:44,490 - my_log - INFO - Getting user information from sidni
+2026-03-16 16:23:44,874 - my_log - ERROR - City not found: sidni
+2026-03-16 16:23:44,874 - my_log - INFO - Request process finished.
+2026-03-16 16:23:49,296 - my_log - INFO - Getting user information from sindy
+2026-03-16 16:23:49,485 - my_log - INFO - Request process finished.
+2026-03-16 16:24:00,750 - my_log - INFO - Getting user information from taharan
+2026-03-16 16:24:01,041 - my_log - ERROR - City not found: taharan
+2026-03-16 16:24:01,041 - my_log - INFO - Request process finished.
+2026-03-16 16:24:06,640 - my_log - INFO - Getting user information from milano
+2026-03-16 16:24:06,995 - my_log - INFO - Request process finished.
+2026-03-16 17:39:17,912 - my_log - INFO - Getting user information from haifa
+2026-03-16 17:39:18,191 - my_log - ERROR - Unauthorized access.
+2026-03-16 17:39:18,191 - my_log - INFO - Request process finished.
+2026-03-16 17:39:34,064 - my_log - INFO - Getting user information from haifa
+2026-03-16 17:39:34,632 - my_log - ERROR - Unauthorized access.
+2026-03-16 17:39:34,633 - my_log - INFO - Request process finished.
+2026-03-16 17:40:39,390 - my_log - INFO - Getting user information from haifa
+2026-03-16 17:40:39,866 - my_log - INFO - Request process finished.
+2026-03-16 17:40:41,584 - my_log - INFO - Getting user information from sdklv
+2026-03-16 17:40:41,690 - my_log - ERROR - City not found: sdklv
+2026-03-16 17:40:41,690 - my_log - INFO - Request process finished.
+2026-03-16 18:12:40,728 - my_log - INFO - Getting user information from haifa
+2026-03-16 18:12:41,101 - my_log - INFO - Request process finished.
+2026-03-16 18:12:42,065 - my_log - INFO - Getting user information from fsdf
+2026-03-16 18:12:42,224 - my_log - ERROR - City not found: fsdf
+2026-03-16 18:12:42,225 - my_log - INFO - Request process finished.
+2026-03-16 18:12:44,892 - my_log - INFO - Getting user information from exut
+2026-03-16 18:12:45,088 - my_log - ERROR - City not found: exut
+2026-03-16 18:12:45,090 - my_log - INFO - Request process finished.
+2026-03-17 22:31:31,941 - my_log - INFO - Getting user information from haifa
+2026-03-17 22:31:32,306 - my_log - INFO - Request process finished.
+2026-03-17 22:35:32,347 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:35:32,348 - my_log - INFO - Request process finished.
+2026-03-17 22:36:49,150 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:36:49,153 - my_log - INFO - Request process finished.
+2026-03-17 22:48:51,574 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:48:51,574 - my_log - INFO - Request process finished.
+2026-03-17 22:49:17,460 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:49:17,462 - my_log - INFO - Request process finished.
+2026-03-17 22:49:39,712 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:49:39,715 - my_log - INFO - Request process finished.
+2026-03-17 22:49:58,251 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:49:58,253 - my_log - INFO - Request process finished.
+2026-03-17 22:49:58,253 - my_log - INFO - Getting user information from Haifa
+2026-03-17 22:49:58,253 - my_log - ERROR - City not found: Haifa
+2026-03-17 22:49:58,253 - my_log - INFO - Request process finished.
+2026-03-17 23:47:09,113 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:47:09,116 - my_log - INFO - Request process finished.
+2026-03-17 23:47:09,117 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:47:09,117 - my_log - ERROR - City not found: Haifa
+2026-03-17 23:47:09,118 - my_log - INFO - Request process finished.
+2026-03-17 23:47:54,927 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:47:54,927 - my_log - INFO - Request process finished.
+2026-03-17 23:47:54,927 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:47:54,927 - my_log - ERROR - City not found: Haifa
+2026-03-17 23:47:54,927 - my_log - INFO - Request process finished.
+2026-03-17 23:47:54,927 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:47:54,927 - my_log - ERROR - Unauthorized access.
+2026-03-17 23:47:54,927 - my_log - INFO - Request process finished.
+2026-03-17 23:55:15,932 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:55:15,935 - my_log - INFO - Request process finished.
+2026-03-17 23:55:15,937 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:55:15,937 - my_log - ERROR - City not found: Haifa
+2026-03-17 23:55:15,938 - my_log - INFO - Request process finished.
+2026-03-17 23:55:15,940 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:55:15,940 - my_log - ERROR - Unauthorized access.
+2026-03-17 23:55:15,941 - my_log - INFO - Request process finished.
+2026-03-17 23:56:08,143 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:56:08,145 - my_log - INFO - Request process finished.
+2026-03-17 23:56:08,146 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:56:08,147 - my_log - ERROR - City not found: Haifa
+2026-03-17 23:56:08,147 - my_log - INFO - Request process finished.
+2026-03-17 23:56:08,148 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:56:08,148 - my_log - ERROR - Unauthorized access.
+2026-03-17 23:56:08,149 - my_log - INFO - Request process finished.
+2026-03-17 23:56:08,150 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:56:08,150 - my_log - ERROR - Network error
+2026-03-17 23:56:08,150 - my_log - INFO - Request process finished.
+2026-03-17 23:57:21,411 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:57:21,414 - my_log - INFO - Request process finished.
+2026-03-17 23:57:21,415 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:57:21,416 - my_log - ERROR - City not found: Haifa
+2026-03-17 23:57:21,416 - my_log - INFO - Request process finished.
+2026-03-17 23:57:21,418 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:57:21,419 - my_log - ERROR - Unauthorized access.
+2026-03-17 23:57:21,419 - my_log - INFO - Request process finished.
+2026-03-17 23:57:21,421 - my_log - INFO - Getting user information from Haifa
+2026-03-17 23:57:21,421 - my_log - ERROR - Network error
+2026-03-17 23:57:21,421 - my_log - INFO - Request process finished.
+2026-03-18 00:02:01,416 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:02:01,420 - my_log - INFO - Request process finished.
+2026-03-18 00:02:01,421 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:02:01,422 - my_log - ERROR - City not found: Haifa
+2026-03-18 00:02:01,422 - my_log - INFO - Request process finished.
+2026-03-18 00:02:01,423 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:02:01,423 - my_log - ERROR - Unauthorized access.
+2026-03-18 00:02:01,424 - my_log - INFO - Request process finished.
+2026-03-18 00:02:01,425 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:02:01,425 - my_log - ERROR - Network error
+2026-03-18 00:02:01,425 - my_log - INFO - Request process finished.
+2026-03-18 00:06:07,338 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:06:07,341 - my_log - INFO - Request process finished.
+2026-03-18 00:06:07,343 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:06:07,343 - my_log - ERROR - City not found: Haifa
+2026-03-18 00:06:07,343 - my_log - INFO - Request process finished.
+2026-03-18 00:06:07,344 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:06:07,344 - my_log - ERROR - Unauthorized access.
+2026-03-18 00:06:07,345 - my_log - INFO - Request process finished.
+2026-03-18 00:06:07,346 - my_log - INFO - Getting user information from Haifa
+2026-03-18 00:06:07,346 - my_log - ERROR - Network error
+2026-03-18 00:06:07,346 - my_log - INFO - Request process finished.
+2026-03-19 19:56:22,509 - my_log - INFO - Getting user information from Haifa
+2026-03-19 19:56:22,513 - my_log - INFO - Request process finished.
+2026-03-19 19:56:22,514 - my_log - INFO - Getting user information from Haifa
+2026-03-19 19:56:22,516 - my_log - ERROR - City not found: Haifa
+2026-03-19 19:56:22,516 - my_log - INFO - Request process finished.
+2026-03-19 19:56:22,517 - my_log - INFO - Getting user information from Haifa
+2026-03-19 19:56:22,518 - my_log - ERROR - Unauthorized access.
+2026-03-19 19:56:22,518 - my_log - INFO - Request process finished.
+2026-03-19 19:56:22,519 - my_log - INFO - Getting user information from Haifa
+2026-03-19 19:56:22,519 - my_log - ERROR - Network error
+2026-03-19 19:56:22,519 - my_log - INFO - Request process finished.
+2026-03-19 19:56:35,174 - my_log - INFO - Getting user information from haifa
+2026-03-19 19:56:35,563 - my_log - INFO - Request process finished.
